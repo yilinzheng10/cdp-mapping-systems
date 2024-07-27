@@ -1,0 +1,75 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -91.0559603,
+          30.443012799999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "1383 Ashbourne Dr, Baton Rouge, LA 70815, USA",
+        "name": "Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.1849963,
+          30.4103353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Visitor Parking, Baton Rouge, LA 70808, USA",
+        "name": "Work"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.1318727,
+          30.454663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "655 Waverly Dr, Baton Rouge, LA 70806, USA",
+        "name": "yangyang"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.10878249999999,
+          30.3420927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "10526 Hill Pointe Ave, Baton Rouge, LA 70810, USA",
+        "name": "jenny"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3568534,
+          48.860928099999995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "6 Rue de Braque, 75003 Paris, France",
+        "name": "School"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

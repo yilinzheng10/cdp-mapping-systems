@@ -1,0 +1,61 @@
+{
+  "createdTime": "2015-08-08T01:27:36.254Z",
+  "modifiedTime": "2024-07-11T21:32:35.488Z",
+  "deviceSettings": [{
+    "deviceTag": 1698601547,
+    "reportingEnabled": false,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPad",
+    "platformType": "IOS",
+    "deviceCreationTime": "2024-06-24T21:17:03.228Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-06-24T21:17:03.228Z"
+    },
+    "iosVersion": "17.5.1",
+    "deviceSpec": {
+      "device": "iPad13,16"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }, {
+    "deviceTag": -146474457,
+    "reportingEnabled": false,
+    "legalCountryCode": "us",
+    "devicePrettyName": "iPhone",
+    "platformType": "IOS",
+    "deviceCreationTime": "2021-09-29T19:50:02.502Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2024-07-11T21:32:35.488Z"
+    },
+    "iosVersion": "17.5.1",
+    "deviceSpec": {
+      "device": "iPhone14,5"
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": false
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "storeVisitControl": {
+    "enabled": true,
+    "updateTime": "2022-07-20T14:51:30.686854360Z"
+  },
+  "encryptedBackupsControls": {
+    "1698601547": {
+      "enabled": false
+    },
+    "-146474457": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": false,
+  "timelineDeletionTime": "2024-07-12T12:42:34.848Z",
+  "latestTimelineSettingChange": {
+    "timelineEnabledModificationTime": "2022-12-07T14:39:37.363Z"
+  }
+}

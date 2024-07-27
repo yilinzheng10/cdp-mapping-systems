@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -91.0503825,
+          30.3754795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-11T17:20:24.512259Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x81dee77cc7abd4a8",
+        "location": {
+          "address": "7155 Exchequer Dr, Baton Rouge, LA 70809, United States",
+          "name": "Safelite AutoGlass"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -91.0543796,
+          30.4119994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-18T13:27:16.044Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa03308acdb2e7ec3",
+        "location": {
+          "address": "11445 Coursey Blvd Suite N, Baton Rouge, LA 70816, United States",
+          "country_code": "US",
+          "name": "Neighborhood Auto Title"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}
